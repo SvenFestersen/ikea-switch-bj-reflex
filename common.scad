@@ -1,8 +1,8 @@
-version = "v1.0";
+version = "v1.1";
 
 module version_string() {
-    linear_extrude(0.4)
-    text(version, font = "Liberation Sans", size=3);
+    linear_extrude(0.6)
+    text(version, font = "Liberation Sans", size=4);
 }
 
 
