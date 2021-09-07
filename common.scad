@@ -1,4 +1,4 @@
-version = "v1.1";
+version = "v1.2";
 
 module version_string() {
     linear_extrude(0.6)
